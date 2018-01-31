@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="City_weather">City Weather</string>
+    <string name="Hourly_data">HOURLY DATA</string>
+    <string name="title_activity_detailed">DetailedActivity</string>
+    <string name="Max_temperaturetext">Max. Temperature :</string>
+    <string name="Min_temperaturetext">Min. Temperature :</string>
+    <string name="Feels_like">Feels like :</string>
+    <string name="Humidity">Humidity :</string>
+    <string name="Dewpoint">Dewpoint :</string>
+    <string name="Pressure">Pressure :</string>
+    <string name="clouds">clouds :</string>
+    <string name="winds">winds :</string>
+    <string name="currentLocation">Current Location: </string>
+</resources>

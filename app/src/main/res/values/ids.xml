@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cityid" type="id">city</item>
+    <item name="stateId" type="id">state</item>
+    <item name="submitbuttonid" type="id">submitid</item>
+    <item name="layoutforadapter" type="id">layoutforadapter</item>
+    <item name="listView" type="id">listView</item>
+    <item name="currentLocation" type="id">currentLocation</item>
+    <item name="Detailedactivity_currentlocation" type="id" />
+    <item name="Detailed_image" type="id">DetailedImage</item>
+    <item name="Da_temp" type="id">datemp</item>
+    <item name="Da_Cloud" type="id">dacloudy</item>
+    <item name="max_tem" type="id">maxtemperature</item>
+    <item name="min_temperature" type="id">mintemperature</item>
+    <item name="Feels_like" type="id">feelslike</item>
+    <item name="Humidity" type="id">humidity</item>
+    <item name="Dewpoint" type="id">dewpoint</item>
+    <item name="pressure" type="id">pressure</item>
+    <item name="Da_clouds" type="id">clouds</item>
+    <item name="Da_winds" type="id">winds</item>
+    <item name="adapter_temperature" type="id">adapter_temperature</item>
+    <item name="Adapter_time" type="id">adaptertime</item>
+</resources>
